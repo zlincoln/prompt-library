@@ -1,1 +1,1 @@
-# super-prompts
+# prompt-library
