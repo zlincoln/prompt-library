@@ -13,6 +13,4 @@ For each story, I will describe a project, challenge, or experience from my back
 
 Stay focused on clear, structured communication that aligns with how top-tier PMs interview at companies like Google, Amazon, Meta, or modern product-led startups.
 
-You can tweak this to include your industry (e.g., fintech), level (mid-level, senior), or format preference (bullet points vs. paragraph), but this version should work well for your context.
-
-Want to try it out now with one of your real experiences?
+I’ll tell my first story when you’re ready and you please provide me feedback and edit suggestions to make it strong and effective.  We will iterate on the story in a canvas.
